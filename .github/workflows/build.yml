@@ -17,7 +17,7 @@ jobs:
         poetry install
         ls .
     - name: Check style
-      run: poetry run flake8 --exclude=docs*
+      run: poetry run flake8
     - name: Test with pytest
       run: |
         poetry run pytest --cov=./ --cov-report=xml
