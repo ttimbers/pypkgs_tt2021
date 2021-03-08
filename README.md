@@ -2,7 +2,7 @@
 
 ![](https://github.com/ttimbers/pypkgs_tt2021/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/ttimbers/pypkgs_tt2021/branch/main/graph/badge.svg)](https://codecov.io/gh/ttimbers/pypkgs_tt2021) ![Release](https://github.com/ttimbers/pypkgs_tt2021/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_tt2021/badge/?version=latest)](https://pypkgs_tt2021.readthedocs.io/en/latest/?badge=latest)
 
-Practice toy package
+Practice toy package for DSCI 524
 
 ## Installation
 
