@@ -15,6 +15,7 @@ jobs:
       run: |
         pip install poetry
         poetry install
+        ls .
     - name: Check style
       run: poetry run flake8 --exclude=docs*
     - name: Test with pytest
